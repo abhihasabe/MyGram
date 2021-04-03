@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>962837646504-opml12uiouhgi5erj8e5qrf8q8q41gbo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.962837646504-opml12uiouhgi5erj8e5qrf8q8q41gbo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>962837646504-mf169iu3j4n3jso8no2guv1nt4dd1qct.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUhr2nmMggbSkIK4VwEM4lSZZTi_Ft_0Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>962837646504</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dvasp.mygramApp</string>
+	<key>PROJECT_ID</key>
+	<string>abhijeet-1277</string>
+	<key>STORAGE_BUCKET</key>
+	<string>abhijeet-1277.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:962837646504:ios:b0e4bf9aa94c6bd65bc69d</string>
+	<key>DATABASE_URL</key>
+	<string>https://abhijeet-1277.firebaseio.com</string>
+</dict>
+</plist>
